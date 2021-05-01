@@ -1,4 +1,4 @@
-Junior Dev working with python, C++, and whatever else i can get my hands on
+Junior Dev working with python, C++, and whatever else i can get my hands on,
 I sometimes do crypto stuff
 
 <!---
