@@ -1,8 +1,8 @@
-💾 Programmer / Crypto Enthusiast Ξ
+jumbledFox
+---
+Hello! I'm a 14 year old programmer and cryptocurrency enthusiast from the UK.
 
-🐤 Creating #NFTs is where my interests collide =)
+I'm currently creating my own nft series in a custom built generator that, once finished, will be publicly available for use with tutorials explaining how to easily generate your own!
 
-👤 14, He/Him
-
-
-<insert pink floyd lyric>
+---
+-insert pink floyd lyric-
