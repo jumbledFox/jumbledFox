@@ -8,3 +8,5 @@ RUST RUST RUST I LOVE RUST IT'S SO EPIC
 Do you like Phil Collins? I've been a big Genesis fan ever since the release of their 1972 album, Foxtrot.
 
 Haven't used GitHub too much recently but I plan to make more stuff.!!
+
+<!--- i regret ever thinking about cryptocurrency let alone tainting the commits of this repository with my *shudders* awful cringy 14 year old ramblings... don't worry now im cool :3 --->
