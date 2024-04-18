@@ -3,7 +3,7 @@ Hello! I'm a 17 year old programmer from the UK.
 
 RUST RUST RUST I LOVE RUST IT'S SO EPIC 
 
-![https://jumbledfox.github.io/button.gif](https://jumbledfox.github.io)
+[<img src="https://jumbledfox.github.io/button.gif">](https://jumbledfox.github.io)
 
 ![](https://komarev.com/ghpvc/?username=jumbledFox&color=EF7D57) Yowzers!! (Although they're probably mostly me)
 
