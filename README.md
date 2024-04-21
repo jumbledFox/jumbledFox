@@ -3,6 +3,8 @@ Hello! I'm a 17 year old programmer from the UK.
 
 RUST RUST RUST I LOVE RUST IT'S SO EPIC 
 
+Most of my old code is.. well.. I'm still learning Rust and I'm a lot better at it than I was a few months ago, to say the least.
+
 [<img src="https://jumbledfox.github.io/button.gif">](https://jumbledfox.github.io)
 
 ![](https://komarev.com/ghpvc/?username=jumbledFox&color=EF7D57) Yowzers!! (Although they're probably mostly me)
