@@ -7,6 +7,8 @@ Most of my old code is.. well.. I'm still learning Rust and I'm a lot better at 
 
 [<img src="https://jumbledfox.github.io/button.gif">](https://jumbledfox.github.io)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zcgnpai3parsngbo51dc6k1c2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ![](https://komarev.com/ghpvc/?username=jumbledFox&color=EF7D57) Yowzers!! (Although they're probably mostly me)
 
 Do you like Phil Collins? I've been a big Genesis fan ever since the release of their 1972 album, Foxtrot.
