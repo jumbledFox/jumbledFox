@@ -1,7 +1,7 @@
 ## jumbledFox
 CHECK OUT MY WEBSITE:
 
-[<img src="https://jumbledfox.github.io/button.gif">](https://jumbledfox.github.io)
+[<img src="https://jumbledfox.github.io/res/button.gif">](https://jumbledfox.github.io)
 
 I'm a 17 year old programmer from the UK who loves programming in Rust, as well as listening to prog rock music >:3
 
