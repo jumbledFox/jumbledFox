@@ -3,7 +3,7 @@ CHECK OUT MY WEBSITE:
 
 [<img src="https://jumbledfox.github.io/res/button.gif">](https://jumbledfox.github.io)
 
-I'm a 17 year old programmer from the UK who loves programming in Rust, as well as listening to prog rock music >:3
+I'm an 18 year old programmer from the UK who loves programming in Rust, as well as listening to prog rock music >:3
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zcgnpai3parsngbo51dc6k1c2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
